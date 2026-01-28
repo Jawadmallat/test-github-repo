@@ -1,4 +1,1 @@
-# test-github-repo
-oop course on git
-hello
-modif nano
+# This GitHub repository is to upload practical exercises for the course of Object Oriented Programming
